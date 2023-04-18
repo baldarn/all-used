@@ -1,0 +1,8 @@
+dist/
+node_modules/
+apify_storage/
+.vscode/
+
+*.zip
+.pnp.cjs
+.yarn/install-state.gz
